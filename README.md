@@ -1,5 +1,5 @@
 # Multiplayer-Tic-Tac-Toe
-This is a multiplayer Tic-Tac-Toe developed in C language using socket programming.
+This is a multiplayer Tic-Tac-Toe developed in C language powered by socket programming.
 
 For comiling the codes you need to configure code-blocks Linker setting
 --------------------------------------------------------------------------------
